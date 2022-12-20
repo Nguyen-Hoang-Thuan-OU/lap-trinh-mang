@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlClientForm", "ControlClientForm\ControlClientForm.csproj", "{01C36AEE-634B-4CCA-90DC-AC464BEA1ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlServerForm", "ControlServerForm\ControlServerForm.csproj", "{95BD0D9C-7CB2-41D5-8253-D09D9C203CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamTCPServer", "StreamTCPServer\StreamTCPServer.csproj", "{BBE431F5-40D4-40E7-8AE1-747D60BDBB9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamTCPClient", "StreamTCPClient\StreamTCPClient.csproj", "{D8A96ED2-3596-4512-84C9-0E2F15B39BB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C36AEE-634B-4CCA-90DC-AC464BEA1ECB}.Debug|x86.ActiveCfg = Debug|x86
+		{01C36AEE-634B-4CCA-90DC-AC464BEA1ECB}.Debug|x86.Build.0 = Debug|x86
+		{01C36AEE-634B-4CCA-90DC-AC464BEA1ECB}.Release|x86.ActiveCfg = Release|x86
+		{01C36AEE-634B-4CCA-90DC-AC464BEA1ECB}.Release|x86.Build.0 = Release|x86
+		{95BD0D9C-7CB2-41D5-8253-D09D9C203CBF}.Debug|x86.ActiveCfg = Debug|x86
+		{95BD0D9C-7CB2-41D5-8253-D09D9C203CBF}.Debug|x86.Build.0 = Debug|x86
+		{95BD0D9C-7CB2-41D5-8253-D09D9C203CBF}.Release|x86.ActiveCfg = Release|x86
+		{95BD0D9C-7CB2-41D5-8253-D09D9C203CBF}.Release|x86.Build.0 = Release|x86
+		{BBE431F5-40D4-40E7-8AE1-747D60BDBB9F}.Debug|x86.ActiveCfg = Debug|x86
+		{BBE431F5-40D4-40E7-8AE1-747D60BDBB9F}.Debug|x86.Build.0 = Debug|x86
+		{BBE431F5-40D4-40E7-8AE1-747D60BDBB9F}.Release|x86.ActiveCfg = Release|x86
+		{BBE431F5-40D4-40E7-8AE1-747D60BDBB9F}.Release|x86.Build.0 = Release|x86
+		{D8A96ED2-3596-4512-84C9-0E2F15B39BB3}.Debug|x86.ActiveCfg = Debug|x86
+		{D8A96ED2-3596-4512-84C9-0E2F15B39BB3}.Debug|x86.Build.0 = Debug|x86
+		{D8A96ED2-3596-4512-84C9-0E2F15B39BB3}.Release|x86.ActiveCfg = Release|x86
+		{D8A96ED2-3596-4512-84C9-0E2F15B39BB3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

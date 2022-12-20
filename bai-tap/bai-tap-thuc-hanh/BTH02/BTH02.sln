@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT01_SimpleTcpClient", "BT01_SimpleTcpClient\BT01_SimpleTcpClient.csproj", "{C9128A93-E6D5-4F8D-830E-18DCD9D09A91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT01_SimpleTcpSrvr", "BT01_SimpleTcpSrvr\BT01_SimpleTcpSrvr.csproj", "{A3A484E1-C525-41A6-A4DA-C0DBEABA078A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT02_BadTcpClient", "BT02_BadTcpClient\BT02_BadTcpClient.csproj", "{7D0B4B5E-11E5-4AD3-9954-22F1DBBBF17B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT02_BadTcpSrvr", "BT02_BadTcpSrvr\BT02_BadTcpSrvr.csproj", "{8F99DCF1-ABE5-46ED-969B-9A654D1647DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT03_FixedTcpClient", "BT03_FixedTcpClient\BT03_FixedTcpClient.csproj", "{C56E8E59-8593-4FBA-898D-FCD630941086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT03_FixedTcpSrvr", "BT03_FixedTcpSrvr\BT03_FixedTcpSrvr.csproj", "{BC063062-F4E9-42B7-B2AC-5E43E44104BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT04_VarTcpSrvr", "BT04_VarTcpSrvr\BT04_VarTcpSrvr.csproj", "{6F9C25AD-2290-4D9C-88CD-945460F4808C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT04_VarTcpClient", "BT04_VarTcpClient\BT04_VarTcpClient.csproj", "{50ACA51B-4F2B-4A4D-9667-BFB521226D96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9128A93-E6D5-4F8D-830E-18DCD9D09A91}.Debug|x86.ActiveCfg = Debug|x86
+		{C9128A93-E6D5-4F8D-830E-18DCD9D09A91}.Debug|x86.Build.0 = Debug|x86
+		{C9128A93-E6D5-4F8D-830E-18DCD9D09A91}.Release|x86.ActiveCfg = Release|x86
+		{C9128A93-E6D5-4F8D-830E-18DCD9D09A91}.Release|x86.Build.0 = Release|x86
+		{A3A484E1-C525-41A6-A4DA-C0DBEABA078A}.Debug|x86.ActiveCfg = Debug|x86
+		{A3A484E1-C525-41A6-A4DA-C0DBEABA078A}.Debug|x86.Build.0 = Debug|x86
+		{A3A484E1-C525-41A6-A4DA-C0DBEABA078A}.Release|x86.ActiveCfg = Release|x86
+		{A3A484E1-C525-41A6-A4DA-C0DBEABA078A}.Release|x86.Build.0 = Release|x86
+		{7D0B4B5E-11E5-4AD3-9954-22F1DBBBF17B}.Debug|x86.ActiveCfg = Debug|x86
+		{7D0B4B5E-11E5-4AD3-9954-22F1DBBBF17B}.Debug|x86.Build.0 = Debug|x86
+		{7D0B4B5E-11E5-4AD3-9954-22F1DBBBF17B}.Release|x86.ActiveCfg = Release|x86
+		{7D0B4B5E-11E5-4AD3-9954-22F1DBBBF17B}.Release|x86.Build.0 = Release|x86
+		{8F99DCF1-ABE5-46ED-969B-9A654D1647DD}.Debug|x86.ActiveCfg = Debug|x86
+		{8F99DCF1-ABE5-46ED-969B-9A654D1647DD}.Debug|x86.Build.0 = Debug|x86
+		{8F99DCF1-ABE5-46ED-969B-9A654D1647DD}.Release|x86.ActiveCfg = Release|x86
+		{8F99DCF1-ABE5-46ED-969B-9A654D1647DD}.Release|x86.Build.0 = Release|x86
+		{C56E8E59-8593-4FBA-898D-FCD630941086}.Debug|x86.ActiveCfg = Debug|x86
+		{C56E8E59-8593-4FBA-898D-FCD630941086}.Debug|x86.Build.0 = Debug|x86
+		{C56E8E59-8593-4FBA-898D-FCD630941086}.Release|x86.ActiveCfg = Release|x86
+		{C56E8E59-8593-4FBA-898D-FCD630941086}.Release|x86.Build.0 = Release|x86
+		{BC063062-F4E9-42B7-B2AC-5E43E44104BF}.Debug|x86.ActiveCfg = Debug|x86
+		{BC063062-F4E9-42B7-B2AC-5E43E44104BF}.Debug|x86.Build.0 = Debug|x86
+		{BC063062-F4E9-42B7-B2AC-5E43E44104BF}.Release|x86.ActiveCfg = Release|x86
+		{BC063062-F4E9-42B7-B2AC-5E43E44104BF}.Release|x86.Build.0 = Release|x86
+		{6F9C25AD-2290-4D9C-88CD-945460F4808C}.Debug|x86.ActiveCfg = Debug|x86
+		{6F9C25AD-2290-4D9C-88CD-945460F4808C}.Debug|x86.Build.0 = Debug|x86
+		{6F9C25AD-2290-4D9C-88CD-945460F4808C}.Release|x86.ActiveCfg = Release|x86
+		{6F9C25AD-2290-4D9C-88CD-945460F4808C}.Release|x86.Build.0 = Release|x86
+		{50ACA51B-4F2B-4A4D-9667-BFB521226D96}.Debug|x86.ActiveCfg = Debug|x86
+		{50ACA51B-4F2B-4A4D-9667-BFB521226D96}.Debug|x86.Build.0 = Debug|x86
+		{50ACA51B-4F2B-4A4D-9667-BFB521226D96}.Release|x86.ActiveCfg = Release|x86
+		{50ACA51B-4F2B-4A4D-9667-BFB521226D96}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

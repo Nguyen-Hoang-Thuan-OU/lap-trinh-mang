@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateExample2", "DelegateExample2\DelegateExample2.csproj", "{A12FF571-A2E3-4B67-95F7-056780A08F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateExample1", "DelegateExample1\DelegateExample1.csproj", "{6099C49B-C058-4227-9172-4ACA83799604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailAttachTest1", "MailAttachTest1\MailAttachTest1.csproj", "{C164E431-3B2E-407D-B660-8DFB6CFAF339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailTest1", "MailTest1\MailTest1.csproj", "{E9A09FD9-0B16-448E-B858-5B9CAB303F80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailTest2", "MailTest2\MailTest2.csproj", "{3212C352-53BD-4D87-9B57-55E772FC141E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailAttachTest2", "MailAttachTest2\MailAttachTest2.csproj", "{F1777A80-5667-4535-A19A-228C1EBD3732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTcpServer", "ThreadTcpServer\ThreadTcpServer.csproj", "{C88D2BDF-1AC5-4B38-9BA9-AD0160CDBC81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTCPChatForm", "ThreadTCPChatForm\ThreadTCPChatForm.csproj", "{53303337-7724-4650-9475-9A49BB32E27C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A12FF571-A2E3-4B67-95F7-056780A08F0A}.Debug|x86.ActiveCfg = Debug|x86
+		{A12FF571-A2E3-4B67-95F7-056780A08F0A}.Debug|x86.Build.0 = Debug|x86
+		{A12FF571-A2E3-4B67-95F7-056780A08F0A}.Release|x86.ActiveCfg = Release|x86
+		{A12FF571-A2E3-4B67-95F7-056780A08F0A}.Release|x86.Build.0 = Release|x86
+		{6099C49B-C058-4227-9172-4ACA83799604}.Debug|x86.ActiveCfg = Debug|x86
+		{6099C49B-C058-4227-9172-4ACA83799604}.Debug|x86.Build.0 = Debug|x86
+		{6099C49B-C058-4227-9172-4ACA83799604}.Release|x86.ActiveCfg = Release|x86
+		{6099C49B-C058-4227-9172-4ACA83799604}.Release|x86.Build.0 = Release|x86
+		{C164E431-3B2E-407D-B660-8DFB6CFAF339}.Debug|x86.ActiveCfg = Debug|x86
+		{C164E431-3B2E-407D-B660-8DFB6CFAF339}.Debug|x86.Build.0 = Debug|x86
+		{C164E431-3B2E-407D-B660-8DFB6CFAF339}.Release|x86.ActiveCfg = Release|x86
+		{C164E431-3B2E-407D-B660-8DFB6CFAF339}.Release|x86.Build.0 = Release|x86
+		{E9A09FD9-0B16-448E-B858-5B9CAB303F80}.Debug|x86.ActiveCfg = Debug|x86
+		{E9A09FD9-0B16-448E-B858-5B9CAB303F80}.Debug|x86.Build.0 = Debug|x86
+		{E9A09FD9-0B16-448E-B858-5B9CAB303F80}.Release|x86.ActiveCfg = Release|x86
+		{E9A09FD9-0B16-448E-B858-5B9CAB303F80}.Release|x86.Build.0 = Release|x86
+		{3212C352-53BD-4D87-9B57-55E772FC141E}.Debug|x86.ActiveCfg = Debug|x86
+		{3212C352-53BD-4D87-9B57-55E772FC141E}.Debug|x86.Build.0 = Debug|x86
+		{3212C352-53BD-4D87-9B57-55E772FC141E}.Release|x86.ActiveCfg = Release|x86
+		{3212C352-53BD-4D87-9B57-55E772FC141E}.Release|x86.Build.0 = Release|x86
+		{F1777A80-5667-4535-A19A-228C1EBD3732}.Debug|x86.ActiveCfg = Debug|x86
+		{F1777A80-5667-4535-A19A-228C1EBD3732}.Debug|x86.Build.0 = Debug|x86
+		{F1777A80-5667-4535-A19A-228C1EBD3732}.Release|x86.ActiveCfg = Release|x86
+		{F1777A80-5667-4535-A19A-228C1EBD3732}.Release|x86.Build.0 = Release|x86
+		{C88D2BDF-1AC5-4B38-9BA9-AD0160CDBC81}.Debug|x86.ActiveCfg = Debug|x86
+		{C88D2BDF-1AC5-4B38-9BA9-AD0160CDBC81}.Debug|x86.Build.0 = Debug|x86
+		{C88D2BDF-1AC5-4B38-9BA9-AD0160CDBC81}.Release|x86.ActiveCfg = Release|x86
+		{C88D2BDF-1AC5-4B38-9BA9-AD0160CDBC81}.Release|x86.Build.0 = Release|x86
+		{53303337-7724-4650-9475-9A49BB32E27C}.Debug|x86.ActiveCfg = Debug|x86
+		{53303337-7724-4650-9475-9A49BB32E27C}.Debug|x86.Build.0 = Debug|x86
+		{53303337-7724-4650-9475-9A49BB32E27C}.Release|x86.ActiveCfg = Release|x86
+		{53303337-7724-4650-9475-9A49BB32E27C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
